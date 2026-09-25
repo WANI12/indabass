@@ -1,0 +1,12 @@
+Variable Definitions,
+ID,Unique identifier for each row
+state,South Sudanese state (all 11 states/administrative areas covered)
+county,County within the state
+population,Total population analysed for this county in this IPC period
+start_year,Calendar year this IPC analysis period begins
+start_month,Calendar month (1-12) this IPC analysis period begins
+prior_period_ipc_phase,"This county's IPC phase (Minimal, Stressed, Crisis, Emergency, Catastrophe) in its immediately preceding analysis period"
+prior_period_phase3plus_pct,This county's % of population in Phase 3+ (Crisis or worse) in its immediately preceding analysis period
+prior_year_cereal_production_tonnes,Most recent net cereal production figure (tonnes) known before this period's year for this county
+prior_year_cereal_gap_tonnes,"Most recent cereal gap (production minus requirement, tonnes) known before this period's year for this county"
+food_insecurity_risk,"This is what you are predicting: 1 if the county is in Crisis, Emergency, or Catastrophe (IPC Phase 3 or above) in this period, 0 if Minimal or Stressed"

@@ -1,0 +1,235 @@
+ID,state,county,population,start_year,start_month,prior_period_ipc_phase,prior_period_phase3plus_pct,prior_year_cereal_production_tonnes,prior_year_cereal_gap_tonnes
+ID_Z1OV5V,Central Equatoria,Juba,651079.0,2025,9,Crisis,54.9,27933.0,-49851.0
+ID_XA8MKU,Central Equatoria,Juba,651079.0,2025,12,Crisis,50.1,27933.0,-49851.0
+ID_1GPT49,Central Equatoria,Juba,651079.0,2026,4,Crisis,60.1,30520.0,-49958.0
+ID_PUSRZA,Central Equatoria,Kajo Keji,247876.0,2025,9,Crisis,54.7,23313.0,-6363.0
+ID_EQOXBE,Central Equatoria,Kajo Keji,247876.0,2025,12,Crisis,44.8,23313.0,-6363.0
+ID_1P5EI7,Central Equatoria,Kajo Keji,247876.0,2026,4,Crisis,54.9,26098.0,-4470.0
+ID_K8EVBR,Central Equatoria,Lainya,121047.0,2025,9,Crisis,54.8,5909.0,-8595.0
+ID_X8U73N,Central Equatoria,Lainya,121047.0,2025,12,Crisis,44.6,5909.0,-8595.0
+ID_KBF2E6,Central Equatoria,Lainya,121047.0,2026,4,Crisis,49.6,5770.0,-9171.0
+ID_WPRLPG,Central Equatoria,Morobo,123332.0,2025,9,Crisis,45.1,17253.0,2455.0
+ID_7GVLHW,Central Equatoria,Morobo,123332.0,2025,12,Crisis,44.6,17253.0,2455.0
+ID_XPBRRN,Central Equatoria,Morobo,123332.0,2026,4,Crisis,54.3,21584.0,6341.0
+ID_TYLVVL,Central Equatoria,Terekeka,274704.0,2025,9,Crisis,49.6,7248.0,-25711.0
+ID_D3IIA3,Central Equatoria,Terekeka,274704.0,2025,12,Crisis,45.1,7248.0,-25711.0
+ID_8K0HF3,Central Equatoria,Terekeka,274704.0,2026,4,Crisis,50.2,9501.0,-24450.0
+ID_6C0OX8,Central Equatoria,Yei,322475.0,2025,9,Crisis,50.1,45420.0,5270.0
+ID_7CZR7X,Central Equatoria,Yei,322475.0,2025,12,Crisis,25.1,45420.0,5270.0
+ID_WQF1TT,Central Equatoria,Yei,322475.0,2026,4,Crisis,40.0,50452.0,9097.0
+ID_IMLYTG,Eastern Equatoria,Budi,112688.0,2025,9,Crisis,50.1,22628.0,9262.0
+ID_VKYMZL,Eastern Equatoria,Budi,112688.0,2025,12,Crisis,35.5,22628.0,9262.0
+ID_O9LNDC,Eastern Equatoria,Budi,112688.0,2026,4,Crisis,49.7,22571.0,8804.0
+ID_MB4BLD,Eastern Equatoria,Ikotos,113622.0,2025,9,Crisis,39.4,19481.0,5285.0
+ID_QLQ1WM,Eastern Equatoria,Ikotos,113622.0,2025,12,Stressed,15.0,19481.0,5285.0
+ID_FPT00E,Eastern Equatoria,Ikotos,113622.0,2026,4,Crisis,34.3,20968.0,6346.0
+ID_2QMK3U,Eastern Equatoria,Kapoeta East,183613.0,2025,9,Emergency,65.1,4540.0,-18002.0
+ID_HK6HMR,Eastern Equatoria,Kapoeta East,183613.0,2025,12,Crisis,39.8,4540.0,-18002.0
+ID_TIEHC2,Eastern Equatoria,Kapoeta East,183613.0,2026,4,Emergency,55.0,5312.0,-17907.0
+ID_YIX79P,Eastern Equatoria,Kapoeta North,167037.0,2025,9,Emergency,60.4,3377.0,-17501.0
+ID_BRTG6C,Eastern Equatoria,Kapoeta North,167037.0,2025,12,Crisis,39.5,3377.0,-17501.0
+ID_2RRA3P,Eastern Equatoria,Kapoeta North,167037.0,2026,4,Emergency,54.5,3903.0,-17602.0
+ID_LCGQLL,Eastern Equatoria,Kapoeta South,117777.0,2025,9,Crisis,35.5,3067.0,-11059.0
+ID_X70R3S,Eastern Equatoria,Kapoeta South,117777.0,2025,12,Crisis,29.7,3067.0,-11059.0
+ID_DUDPRK,Eastern Equatoria,Kapoeta South,117777.0,2026,4,Crisis,34.8,3242.0,-11309.0
+ID_5R0PNF,Eastern Equatoria,Lafon,167125.0,2025,9,Emergency,55.2,10129.0,-9878.0
+ID_3VCLHO,Eastern Equatoria,Lafon,167125.0,2025,12,Crisis,44.9,10129.0,-9878.0
+ID_VU5WP8,Eastern Equatoria,Lafon,167125.0,2026,4,Emergency,54.5,15557.0,-5050.0
+ID_MVU2YE,Eastern Equatoria,Magwi,282656.0,2025,9,Crisis,19.6,75007.0,41224.0
+ID_TTRUTI,Eastern Equatoria,Magwi,282656.0,2025,12,Stressed,14.9,75007.0,41224.0
+ID_7ZFZTO,Eastern Equatoria,Magwi,282656.0,2026,4,Crisis,19.8,78776.0,43979.0
+ID_S6GKJ7,Eastern Equatoria,Torit,73850.0,2025,9,Crisis,54.3,5307.0,-3395.0
+ID_1K16Y0,Eastern Equatoria,Torit,73850.0,2025,12,Crisis,29.8,5307.0,-3395.0
+ID_UPU536,Eastern Equatoria,Torit,73850.0,2026,4,Crisis,44.7,5970.0,-3000.0
+ID_LZMS80,Jonglei,Akobo,244749.0,2025,9,Emergency,70.2,12258.0,-14231.0
+ID_4BFPV0,Jonglei,Akobo,244749.0,2025,12,Crisis,55.2,12258.0,-14231.0
+ID_V6443K,Jonglei,Akobo,244749.0,2026,4,Emergency,69.9,12172.0,-15114.0
+ID_TX6QCA,Jonglei,Ayod,207210.0,2025,9,Emergency,65.5,874.0,-21812.0
+ID_LUK873,Jonglei,Ayod,207210.0,2025,12,Crisis,45.4,874.0,-21812.0
+ID_22HR5S,Jonglei,Ayod,207210.0,2026,4,Emergency,60.3,1974.0,-21396.0
+ID_OSC0WH,Jonglei,Bor South,363622.0,2025,9,Crisis,25.1,17844.0,-23669.0
+ID_S14ECI,Jonglei,Bor South,363622.0,2025,12,Stressed,15.1,17844.0,-23669.0
+ID_9RTJ6U,Jonglei,Bor South,363622.0,2026,4,Crisis,20.1,14534.0,-28229.0
+ID_5A2X54,Jonglei,Canal/Pigi,113129.0,2025,9,Emergency,69.6,768.0,-11675.0
+ID_U44QUN,Jonglei,Canal/Pigi,113129.0,2025,12,Emergency,69.8,768.0,-11675.0
+ID_F57VH2,Jonglei,Canal/Pigi,113129.0,2026,4,Emergency,80.4,781.0,-12035.0
+ID_D3LS11,Jonglei,Duk,211856.0,2025,9,Emergency,59.9,3133.0,-20139.0
+ID_Q01YHY,Jonglei,Duk,211856.0,2025,12,Crisis,40.1,3133.0,-20139.0
+ID_A0EIVA,Jonglei,Duk,211856.0,2026,4,Emergency,59.9,3269.0,-20703.0
+ID_8T49LX,Jonglei,Fangak,227445.0,2025,9,Emergency,65.3,1232.0,-21752.0
+ID_LE0BCT,Jonglei,Fangak,227445.0,2025,12,Emergency,80.0,1232.0,-21752.0
+ID_324ZBL,Jonglei,Fangak,227445.0,2026,4,Emergency,80.0,1045.0,-22664.0
+ID_5KZHCM,Jonglei,Nyirol,151386.0,2025,9,Emergency,75.0,1559.0,-15073.0
+ID_Z2RNO6,Jonglei,Nyirol,151386.0,2025,12,Crisis,55.5,1559.0,-15073.0
+ID_CYSVUH,Jonglei,Nyirol,151386.0,2026,4,Emergency,64.7,1518.0,-15614.0
+ID_IWZWT9,Jonglei,Pibor,242329.0,2025,9,Emergency,84.9,2766.99609375,-16228.9140625
+ID_94PN8Q,Jonglei,Pibor,242329.0,2025,12,Emergency,70.2,2766.99609375,-16228.9140625
+ID_IX43IR,Jonglei,Pibor,242329.0,2026,4,Emergency,65.2,2766.99609375,-16228.9140625
+ID_GM5DKO,Jonglei,Pochalla,84745.0,2025,9,Crisis,66.1,2766.99609375,-16228.9140625
+ID_YBESIR,Jonglei,Pochalla,84745.0,2025,12,Crisis,50.7,2766.99609375,-16228.9140625
+ID_Q4TP1N,Jonglei,Pochalla,84745.0,2026,4,Crisis,55.5,2766.99609375,-16228.9140625
+ID_A6KSNJ,Jonglei,Twic East,132529.0,2025,9,Emergency,70.4,2766.99609375,-16228.9140625
+ID_CZOBD9,Jonglei,Twic East,132529.0,2025,12,Emergency,50.6,2766.99609375,-16228.9140625
+ID_Q8WHT3,Jonglei,Twic East,132529.0,2026,4,Emergency,59.6,2766.99609375,-16228.9140625
+ID_7OJ98B,Jonglei,Uror,208359.0,2025,9,Emergency,69.8,2766.99609375,-16228.9140625
+ID_YTE9AF,Jonglei,Uror,208359.0,2025,12,Crisis,54.7,2766.99609375,-16228.9140625
+ID_PP7SDW,Jonglei,Uror,208359.0,2026,4,Emergency,65.3,2766.99609375,-16228.9140625
+ID_YQTUV2,Lakes,Awerial,148492.0,2025,9,Emergency,59.9,19353.0,3026.0
+ID_7UUBRJ,Lakes,Awerial,148492.0,2025,12,Crisis,39.7,19353.0,3026.0
+ID_174WYA,Lakes,Awerial,148492.0,2026,4,Emergency,55.2,20824.0,4006.0
+ID_GS1KWQ,Lakes,Cueibet,194933.0,2025,9,Emergency,60.4,29253.0,7818.0
+ID_JL8EZ3,Lakes,Cueibet,194933.0,2025,12,Stressed,14.9,29253.0,7818.0
+ID_1T6ERQ,Lakes,Cueibet,194933.0,2026,4,Crisis,39.5,32124.0,10043.0
+ID_5A8389,Lakes,Rumbek Centre,229448.0,2025,9,Emergency,55.0,19221.0,-5989.0
+ID_214311,Lakes,Rumbek Centre,229448.0,2025,12,Crisis,50.1,19221.0,-5989.0
+ID_BKHSSC,Lakes,Rumbek Centre,229448.0,2026,4,Crisis,54.9,21049.0,-4930.0
+ID_RTP08I,Lakes,Rumbek East,185651.0,2025,9,Emergency,64.6,24549.0,4139.0
+ID_IO1Q3D,Lakes,Rumbek East,185651.0,2025,12,Crisis,44.7,24549.0,4139.0
+ID_ZVWE8G,Lakes,Rumbek East,185651.0,2026,4,Crisis,60.3,26399.0,5371.0
+ID_358GEE,Lakes,Rumbek North,77350.0,2025,9,Emergency,64.9,4624.0,-3879.0
+ID_JGBJXG,Lakes,Rumbek North,77350.0,2025,12,Crisis,40.1,4624.0,-3879.0
+ID_56W0MQ,Lakes,Rumbek North,77350.0,2026,4,Emergency,59.5,3111.0,-5649.0
+ID_A1CCYY,Lakes,Wulu,94695.0,2025,9,Crisis,40.2,22872.0,12459.0
+ID_4JUFN2,Lakes,Wulu,94695.0,2025,12,Stressed,14.8,22872.0,12459.0
+ID_4XCRWD,Lakes,Wulu,94695.0,2026,4,Crisis,20.1,27372.0,16647.0
+ID_WF1TQV,Lakes,Yirol East,170834.0,2025,9,Emergency,49.5,22544.0,3793.0
+ID_0R095U,Lakes,Yirol East,170834.0,2025,12,Crisis,49.8,22544.0,3793.0
+ID_HGCRKF,Lakes,Yirol East,170834.0,2026,4,Emergency,59.7,19648.0,310.0
+ID_KJ6XHP,Lakes,Yirol West,185519.0,2025,9,Emergency,55.3,33171.0,12771.0
+ID_D3BGNP,Lakes,Yirol West,185519.0,2025,12,Crisis,35.0,33171.0,12771.0
+ID_YHRFOZ,Lakes,Yirol West,185519.0,2026,4,Crisis,50.1,37914.0,16899.0
+ID_G7FBV2,Northern Bahr El Ghazal,Aweil Centre,94808.0,2025,9,Crisis,44.3,7647.0,-1236.0
+ID_I6OEUH,Northern Bahr El Ghazal,Aweil Centre,94808.0,2025,12,Crisis,44.3,7647.0,-1236.0
+ID_8VAQVB,Northern Bahr El Ghazal,Aweil Centre,94808.0,2026,4,Crisis,49.6,7953.0,-1510.0
+ID_DIM28A,Northern Bahr El Ghazal,Aweil East,418494.0,2025,9,Emergency,60.0,16460.0,-23864.0
+ID_QWD1BQ,Northern Bahr El Ghazal,Aweil East,418494.0,2025,12,Crisis,49.9,16460.0,-23864.0
+ID_FDTNBS,Northern Bahr El Ghazal,Aweil East,418494.0,2026,4,Emergency,65.0,20344.0,-22703.0
+ID_5XRGA3,Northern Bahr El Ghazal,Aweil North,205981.0,2025,9,Emergency,70.0,14244.0,-5456.0
+ID_L71029,Northern Bahr El Ghazal,Aweil North,205981.0,2025,12,Crisis,50.0,14244.0,-5456.0
+ID_DG38RA,Northern Bahr El Ghazal,Aweil North,205981.0,2026,4,Emergency,59.7,18781.0,-2292.0
+ID_JIB931,Northern Bahr El Ghazal,Aweil South,155576.0,2025,9,Emergency,70.3,7715.0,-8882.0
+ID_K26GFX,Northern Bahr El Ghazal,Aweil South,155576.0,2025,12,Crisis,54.6,7715.0,-8882.0
+ID_AMHV1F,Northern Bahr El Ghazal,Aweil South,155576.0,2026,4,Emergency,59.8,9090.0,-8133.0
+ID_070VK3,Northern Bahr El Ghazal,Aweil West,228970.0,2025,9,Emergency,60.2,25247.0,1412.0
+ID_2RGWHG,Northern Bahr El Ghazal,Aweil West,228970.0,2025,12,Crisis,45.0,25247.0,1412.0
+ID_XMD7QC,Northern Bahr El Ghazal,Aweil West,228970.0,2026,4,Crisis,55.0,29412.0,4437.0
+ID_Q3ZA8E,Unity,Abiemnhom,61203.0,2025,9,Crisis,56.7,703.0,-2173.0
+ID_83MTEB,Unity,Abiemnhom,61203.0,2025,12,Crisis,39.2,703.0,-2173.0
+ID_DUD8T7,Unity,Abiemnhom,61203.0,2026,4,Crisis,49.0,703.0,-2173.0
+ID_D2TO1K,Unity,Guit,76195.0,2025,9,Crisis,83.1,1243.0,-5070.0
+ID_VTORP5,Unity,Guit,76195.0,2025,12,Crisis,60.4,1243.0,-5070.0
+ID_9YEQ96,Unity,Guit,76195.0,2026,4,Emergency,69.6,1479.0,-5028.0
+ID_SJQA0P,Unity,Koch,107144.0,2025,9,Crisis,75.3,2380.0,-6534.0
+ID_X99DBK,Unity,Koch,107144.0,2025,12,Crisis,60.7,2380.0,-6534.0
+ID_4EPBO0,Unity,Koch,107144.0,2026,4,Crisis,70.0,3187.0,-5997.0
+ID_1717HV,Unity,Leer,85953.0,2025,9,Emergency,74.1,835.0,-6182.0
+ID_0EHLIT,Unity,Leer,85953.0,2025,12,Crisis,50.0,835.0,-6182.0
+ID_SJ8BFI,Unity,Leer,85953.0,2026,4,Emergency,65.2,1253.0,-5985.0
+ID_8OJGZA,Unity,Mayendit,76247.0,2025,9,Emergency,74.4,560.0,-5837.0
+ID_CF0R7F,Unity,Mayendit,76247.0,2025,12,Crisis,45.9,560.0,-5837.0
+ID_A6AHHC,Unity,Mayendit,76247.0,2026,4,Emergency,64.3,496.0,-6099.0
+ID_ASIKZO,Unity,Mayom,175695.0,2025,9,Crisis,49.7,2496.0,-11661.0
+ID_IEASU2,Unity,Mayom,175695.0,2025,12,Crisis,50.1,2496.0,-11661.0
+ID_9EE2A8,Unity,Mayom,175695.0,2026,4,Crisis,54.6,3464.0,-11164.0
+ID_4N1W3E,Unity,Panyijiar,128173.0,2025,9,Emergency,70.2,1220.0,-9625.0
+ID_R70UT1,Unity,Panyijiar,128173.0,2025,12,Crisis,49.9,1220.0,-9625.0
+ID_00WNT0,Unity,Panyijiar,128173.0,2026,4,Emergency,65.5,1382.0,-9792.0
+ID_K9875T,Unity,Pariang,141940.0,2025,9,Crisis,55.8,2578.0,-10659.0
+ID_RJIB73,Unity,Pariang,141940.0,2025,12,Crisis,40.2,2578.0,-10659.0
+ID_9SYIED,Unity,Pariang,141940.0,2026,4,Crisis,50.0,2578.0,-10659.0
+ID_48CD5L,Unity,Rubkona,414201.0,2025,9,Emergency,85.1,1389.0,-33120.0
+ID_XTNJS1,Unity,Rubkona,414201.0,2025,12,Crisis,59.9,1389.0,-33120.0
+ID_8L9GJ4,Unity,Rubkona,414201.0,2026,4,Emergency,75.1,2160.0,-33501.0
+ID_ANLIOB,Upper Nile,Baliet,36424.0,2025,9,Crisis,67.9,1639.0,-1439.0
+ID_L7VJUZ,Upper Nile,Baliet,36424.0,2025,12,Crisis,54.9,1639.0,-1439.0
+ID_5PFBCE,Upper Nile,Baliet,36424.0,2026,4,Emergency,63.1,1839.0,-1342.0
+ID_5Z3ZTD,Upper Nile,Fashoda,103905.0,2025,9,Emergency,60.9,2031.0,-4893.0
+ID_S7XSV1,Upper Nile,Fashoda,103905.0,2025,12,Crisis,39.5,2031.0,-4893.0
+ID_8F6FTS,Upper Nile,Fashoda,103905.0,2026,4,Emergency,60.6,2240.0,-5075.0
+ID_CJLEI6,Upper Nile,Longochuk,79902.0,2025,9,Crisis,58.7,2895.0,-3831.0
+ID_WGL8I9,Upper Nile,Longochuk,79902.0,2025,12,Emergency,65.1,2895.0,-3831.0
+ID_AKFD18,Upper Nile,Longochuk,79902.0,2026,4,Emergency,75.1,2666.0,-4270.0
+ID_TLTY7W,Upper Nile,Luakpiny/Nasir,329670.0,2025,9,Emergency,69.9,4030.0,-22514.0
+ID_29MAX6,Upper Nile,Luakpiny/Nasir,329670.0,2025,12,Emergency,69.8,4030.0,-22514.0
+ID_EBQGBP,Upper Nile,Luakpiny/Nasir,329670.0,2026,4,Emergency,79.8,3168.0,-24199.0
+ID_ADUSQB,Upper Nile,Maban,107258.0,2025,9,Emergency,59.0,5162.0,-2218.0
+ID_00G9E0,Upper Nile,Maban,107258.0,2025,12,Crisis,50.3,5162.0,-2218.0
+ID_7PMEXJ,Upper Nile,Maban,107258.0,2026,4,Emergency,55.0,4158.0,-3982.0
+ID_TNRP1I,Upper Nile,Maiwut,143201.0,2025,9,Emergency,59.7,4436.0,-7502.0
+ID_3661L0,Upper Nile,Maiwut,143201.0,2025,12,Crisis,34.9,4436.0,-7502.0
+ID_8KGFP9,Upper Nile,Maiwut,143201.0,2026,4,Crisis,49.6,3881.0,-8424.0
+ID_4K3AWL,Upper Nile,Malakal,281421.0,2025,9,Emergency,75.0,1598.0,-18108.0
+ID_AR0WH0,Upper Nile,Malakal,281421.0,2025,12,Emergency,65.0,1598.0,-18108.0
+ID_RFIUPR,Upper Nile,Malakal,281421.0,2026,4,Emergency,70.0,2043.0,-18486.0
+ID_OG710E,Upper Nile,Manyo,117324.0,2025,9,Emergency,66.3,5336.0,-1795.0
+ID_Q8O9S4,Upper Nile,Manyo,117324.0,2025,12,Crisis,55.4,5336.0,-1795.0
+ID_ZNMZOF,Upper Nile,Manyo,117324.0,2026,4,Crisis,60.5,6156.0,-1537.0
+ID_E98WP9,Upper Nile,Melut,145727.0,2025,9,Crisis,51.2,6894.0,-4838.0
+ID_4P4JWR,Upper Nile,Melut,145727.0,2025,12,Crisis,50.1,6894.0,-4838.0
+ID_3XUXNB,Upper Nile,Melut,145727.0,2026,4,Crisis,54.9,7904.0,-4231.0
+ID_9DSSRK,Upper Nile,Panyikang,73658.0,2025,9,Emergency,70.2,1323.0,-4724.0
+ID_FI53LL,Upper Nile,Panyikang,73658.0,2025,12,Emergency,59.7,1323.0,-4724.0
+ID_P0NFDD,Upper Nile,Panyikang,73658.0,2026,4,Emergency,69.2,1146.0,-5122.0
+ID_2PJ0MM,Upper Nile,Renk,627930.0,2025,9,Crisis,65.1,21733.0,3195.0
+ID_UG8XJK,Upper Nile,Renk,627930.0,2025,12,Crisis,55.1,21733.0,3195.0
+ID_31DZRH,Upper Nile,Renk,627930.0,2026,4,Crisis,60.0,16950.0,-8797.0
+ID_TTQAYI,Upper Nile,Ulang,153111.0,2025,9,Emergency,65.4,3836.0,-8915.0
+ID_IY2S53,Upper Nile,Ulang,153111.0,2025,12,Emergency,64.7,3836.0,-8915.0
+ID_0TJ2T9,Upper Nile,Ulang,153111.0,2026,4,Emergency,75.1,3305.0,-9831.0
+ID_O5A439,Warrap,Gogrial East,140289.0,2025,9,Emergency,65.3,13630.0,414.0
+ID_GF5LXK,Warrap,Gogrial East,140289.0,2025,12,Crisis,29.9,13630.0,414.0
+ID_2G5EOL,Warrap,Gogrial East,140289.0,2026,4,Crisis,49.9,15420.0,1793.0
+ID_0TA8RD,Warrap,Gogrial West,352231.0,2025,9,Emergency,60.2,55786.0,19411.0
+ID_05N9HC,Warrap,Gogrial West,352231.0,2025,12,Crisis,30.1,55786.0,19411.0
+ID_ZDQ3W6,Warrap,Gogrial West,352231.0,2026,4,Crisis,45.1,61368.0,23734.0
+ID_BDJ7H7,Warrap,Tonj East,196740.0,2025,9,Emergency,60.0,14637.0,-4964.0
+ID_REDY0V,Warrap,Tonj East,196740.0,2025,12,Crisis,45.2,14637.0,-4964.0
+ID_QXO2DW,Warrap,Tonj East,196740.0,2026,4,Emergency,60.0,15646.0,-4556.0
+ID_N717YW,Warrap,Tonj North,280443.0,2025,9,Emergency,55.2,24021.0,-3938.0
+ID_1BSDX4,Warrap,Tonj North,280443.0,2025,12,Crisis,34.9,24021.0,-3938.0
+ID_W3LNAE,Warrap,Tonj North,280443.0,2026,4,Emergency,49.9,21523.0,-7290.0
+ID_HPITZA,Warrap,Tonj South,128038.0,2025,9,Crisis,45.4,14654.0,3235.0
+ID_7UY4SA,Warrap,Tonj South,128038.0,2025,12,Crisis,25.0,14654.0,3235.0
+ID_EQ1ZQ8,Warrap,Tonj South,128038.0,2026,4,Crisis,44.5,17479.0,5691.0
+ID_DAYDW9,Warrap,Twic,304133.0,2025,9,Emergency,65.1,24092.0,-1777.0
+ID_F6Y5V9,Warrap,Twic,304133.0,2025,12,Crisis,34.9,24092.0,-1777.0
+ID_JREHMI,Warrap,Twic,304133.0,2026,4,Emergency,54.9,23547.0,-3563.0
+ID_QP56A2,Western Bahr El Ghazal,Jur River,301556.0,2025,9,Crisis,25.0,40460.0,7344.0
+ID_TYZNM5,Western Bahr El Ghazal,Jur River,301556.0,2025,12,Stressed,14.9,40460.0,7344.0
+ID_SAXYK2,Western Bahr El Ghazal,Jur River,301556.0,2026,4,Crisis,24.9,43260.0,9123.0
+ID_E58F3O,Western Bahr El Ghazal,Raga,84724.0,2025,9,Crisis,61.4,8756.0,2429.0
+ID_B9V1T4,Western Bahr El Ghazal,Raga,84724.0,2025,12,Crisis,35.4,8756.0,2429.0
+ID_JXA2YM,Western Bahr El Ghazal,Raga,84724.0,2026,4,Crisis,44.9,8977.0,2093.0
+ID_PYI46N,Western Bahr El Ghazal,Wau,360254.0,2025,9,Crisis,50.0,40440.0,-394.0
+ID_05FL04,Western Bahr El Ghazal,Wau,360254.0,2025,12,Stressed,15.0,40440.0,-394.0
+ID_63NA7H,Western Bahr El Ghazal,Wau,360254.0,2026,4,Crisis,40.0,46919.0,4589.0
+ID_N98X16,Western Equatoria,Ezo,141097.0,2025,9,Stressed,14.7,43168.0,22709.0
+ID_F4ZZW5,Western Equatoria,Ezo,141097.0,2025,12,Stressed,9.9,43168.0,22709.0
+ID_UK4SHA,Western Equatoria,Ezo,141097.0,2026,4,Stressed,14.9,47976.0,26903.0
+ID_60V33L,Western Equatoria,Ibba,70600.0,2025,9,Crisis,19.5,28246.0,18009.0
+ID_IFNCRN,Western Equatoria,Ibba,70600.0,2025,12,Stressed,9.9,28246.0,18009.0
+ID_3TNKZI,Western Equatoria,Ibba,70600.0,2026,4,Crisis,21.2,29457.0,18913.0
+ID_Y75ITD,Western Equatoria,Maridi,117256.0,2025,9,Stressed,19.8,27119.0,10119.0
+ID_L35JRJ,Western Equatoria,Maridi,117256.0,2025,12,Stressed,15.4,27119.0,10119.0
+ID_9R3VP8,Western Equatoria,Maridi,117256.0,2026,4,Stressed,19.6,29186.0,11675.0
+ID_LIM06E,Western Equatoria,Mundri East,106382.0,2025,9,Crisis,35.3,9700.0,-5725.0
+ID_TCQR3E,Western Equatoria,Mundri East,106382.0,2025,12,Crisis,19.7,9700.0,-5725.0
+ID_V1RDNF,Western Equatoria,Mundri East,106382.0,2026,4,Crisis,35.7,8061.0,-7827.0
+ID_4X13QI,Western Equatoria,Mundri West,52794.0,2025,9,Crisis,21.8,3791.0,-3864.0
+ID_NF2P09,Western Equatoria,Mundri West,52794.0,2025,12,Crisis,20.8,3791.0,-3864.0
+ID_1PQFMP,Western Equatoria,Mundri West,52794.0,2026,4,Crisis,30.3,3904.0,-3981.0
+ID_AH3QN2,Western Equatoria,Mvolo,79941.0,2025,9,Crisis,49.3,7818.0,-3773.0
+ID_1R91R0,Western Equatoria,Mvolo,79941.0,2025,12,Crisis,35.0,7818.0,-3773.0
+ID_HRLIAG,Western Equatoria,Mvolo,79941.0,2026,4,Crisis,45.0,8784.0,-3155.0
+ID_P34SLQ,Western Equatoria,Nagero,63411.0,2025,9,Crisis,51.5,7159.0,-2035.0
+ID_GBUL1O,Western Equatoria,Nagero,63411.0,2025,12,Crisis,39.4,7159.0,-2035.0
+ID_T96GSK,Western Equatoria,Nagero,63411.0,2026,4,Crisis,48.9,5822.0,-3648.0
+ID_BOJAXN,Western Equatoria,Nzara,88870.0,2025,9,Stressed,10.2,44735.0,31850.0
+ID_HRC4HM,Western Equatoria,Nzara,88870.0,2025,12,Stressed,4.5,44735.0,31850.0
+ID_08OPEV,Western Equatoria,Nzara,88870.0,2026,4,Stressed,14.6,48598.0,35327.0
+ID_HTZ4VO,Western Equatoria,Tambura,126606.0,2025,9,Crisis,40.2,13835.0,-4522.0
+ID_YBJ7SO,Western Equatoria,Tambura,126606.0,2025,12,Crisis,30.0,13835.0,-4522.0
+ID_YGY21J,Western Equatoria,Tambura,126606.0,2026,4,Crisis,35.5,11553.0,-7355.0
+ID_MAS41R,Western Equatoria,Yambio,179216.0,2025,9,Stressed,15.1,47302.0,21326.0
+ID_U08L4P,Western Equatoria,Yambio,179216.0,2025,12,Stressed,5.0,47302.0,21326.0
+ID_JAGXLQ,Western Equatoria,Yambio,179216.0,2026,4,Stressed,20.1,53308.0,26552.0
